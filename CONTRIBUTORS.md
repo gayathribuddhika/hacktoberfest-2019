@@ -798,3 +798,8 @@
 - Place: Arequipa,Peru
 - Bio: Student
 - GitHub: [Camiila23](https://github.com/Camiila23)
+
+#### Name: [Amaya Hewavithana](https://github.com/InduAmaya)
+- Place: Galle,Sri Lanka
+- Bio: Student
+- GitHub: [InduAmaya](https://github.com/InduAmaya)
